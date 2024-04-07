@@ -1,5 +1,5 @@
-# 5seisLinks
-Una app para que los interesados en 5seis puedan postularse a sus cargos!
+# Personal and Professional Links
+Una app para que los interesados en trabajar juntos puedan contactarse!
 
 Basado en la crypta Links: https://github.com/lacrypta/links
 
